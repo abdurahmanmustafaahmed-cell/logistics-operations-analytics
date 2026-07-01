@@ -1,10 +1,10 @@
 Logistics & Operations Excellence Analytics Portfolio
 
-this repository contains data-driven optimization projects designed to improve throughput, ensure SLA compliance, and refine warehouse strategy within fast-paced fulfillment environments.
+This repository contains data-driven optimization projects designed to improve throughput, ensure SLA compliance, and refine warehouse strategy within fast-paced fulfillment environments.
 
 Project 1: E-Commerce Last-Mile SLA & TAT Optimization
 
-Objective: Analyze order life cycle logs to identify bottlenecks preventing 2 hour on demand fulfillment targets.
+Objective: Analyze order life cycle logs to identify bottlenecks preventing 2-hour on-demand fulfillment targets.
 
 Tools Used: Google Sheets, Tableau Public
 
