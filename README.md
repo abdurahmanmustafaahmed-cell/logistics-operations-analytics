@@ -4,12 +4,13 @@ This repository contains data-driven optimization projects designed to improve t
 
 ## Project 1: E-Commerce Last-Mile SLA & TAT Optimization
 * **Objective:** Analyze order life-cycle logs to identify bottlenecks preventing 2-hour on-demand fulfillment targets.
-* **Tools Used:** Python (Pandas, Matplotlib, Seaborn)
-* **Key Finding:** Identified that the processing bottleneck resided heavily within the Order Packing phase (averaging 45 mins) rather than the transit networks.
-* **Outcome:** Formulated layout optimization strategies to drop packing times by 20%, returning SLA compliance to target baselines.
+* **Tools Used:** Google Sheets, Tableau Public
+* **Tableau Dashboard:** [View Live Interactive Dashboard](https://public.tableau.com/views/E-CommerceLast-MileSLABottleneckAnalysis/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+* **Key Finding:** Identified that the processing bottleneck resided heavily within the Order Packing phase (averaging 55 mins) rather than the transit networks.
+* **Outcome:** Formulated layout optimization strategies to drop packing times, returning SLA compliance to target baselines.
 
 ## Project 2: Warehouse Slotting Strategy via ABC Velocity Analysis
 * **Objective:** Minimize picking travel distances by re-allocating SKUs based on order velocity metrics.
-* **Tools Used:** Python (Data modeling, Cumulative distribution logic)
+* **Tools Used:** Python (Data modeling, Cumulative distribution logic) 
 * **Key Finding:** Class A items represented 70% of warehouse movements but were scattered randomly across remote aisles.
 * **Outcome:** Proposed a structured slotting configuration keeping high-velocity SKUs nearest to packing areas, cutting travel times significantly.
